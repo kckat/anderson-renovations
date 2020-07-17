@@ -1,0 +1,44 @@
+.reviews, .services-card {
+    width: 90%;
+    margin: 20px auto;
+    position: relative;
+    text-align: center;
+}
+
+.card, .bg-light{
+    background: rgba(20, 0, 20, 0.664) !important;
+    color: rgb(240, 234, 234);
+}
+
+.icon {
+width: 100px;
+height: 50px;
+}
+
+.home-page {
+    width: 500px;
+    height: 500px;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+body {
+    background-image: url(assets/hardwood.jpg);
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    color: white !important;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.596);
+}
+
+.row {
+    margin-top: 20px;
+}
